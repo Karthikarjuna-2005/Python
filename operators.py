@@ -1,0 +1,11 @@
+a=5
+b=6
+c=7
+a+=b
+a*=c
+a-=c
+a//=c
+b**=a
+a%=b
+a*=b
+print(a,b,c)

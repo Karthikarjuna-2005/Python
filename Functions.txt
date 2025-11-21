@@ -1,0 +1,16 @@
+Functions:
+Functions are basic buildin blocks of any programming language
+Function is piece of code or block of code
+Every function doing some work
+We have 2 types of functions:
+1.predefined
+print()..input()..max()  min()..... 
+
+2.user defined
+user defined function declaration and calling and implementation done by user:
+function declaration is optional 
+It is developed four ways:
+1.Function with return type and with arguments
+2.Function without return type and with arguments
+3.Function with return type and without arguments
+4.Function without return type and without arguments

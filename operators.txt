@@ -1,0 +1,25 @@
+operators:
+1.arithmetic
++,-,*,/,//,%
+
+2.relational
+<,<=,>,>=,!=,==
+
+3.logical
+&&-->and(both)   ||-->or(either)   |-->not
+
+4.assignment
+=,+=,*=,/=,//=,**=
+
+5.conditional
+if,else
+res="+Ve" if n>0 else "-ve"
+
+6.bitwise
+a=12
+b=10
+a&b
+1100
+1010(&)
+
+
